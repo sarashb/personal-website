@@ -1,0 +1,19 @@
+:root {
+    --strong-acqua: #009DAE;
+    --medium-acqua: #71DFE7;
+    --light-acqua: #C2FFF9;
+    --yellow: #FFE652;
+    margin: 0;
+}
+
+.titulo {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: var(--strong-acqua);
+}
+
+.sobre {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
